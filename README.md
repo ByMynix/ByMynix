@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="wellcome to" src="https://komarev.com/ghpvc/?username=ByMynix&color=red&style=flat" />
+    <img align="center" alt="welcome to" src="https://komarev.com/ghpvc/?username=ByMynix&color=red&style=flat" />
+</p>
+<p align="center">
+    <img align="center" alt="welcome to" src="https://discord.c99.nl/widget/theme-3/852594580033110024.png" />
 </p>
 
 <br>
