@@ -1,7 +1,7 @@
 <p>
   <h1 align="center"><b>Welcome!</b></h1>
 </p>
-
+<iframe src="https://discord.com/widget?id=908055039258550305&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <p align="center">
     <img align="center" alt="welcome to" src="https://komarev.com/ghpvc/?username=ByMynix&color=red&style=flat" />
 </p>
