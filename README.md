@@ -1,7 +1,9 @@
 <p>
   <h1 align="center"><b>Welcome!</b></h1>
 </p>
-
+<p align="center">
+<a href="https://dsc.gg/bymynixde"><img alt="ByMynixDE Discord Server" src="https://discordapp.com/api/guilds/908055039258550305/widget.png?style=banner2"></a>
+  </p>
 <p align="center">
     <img align="center" alt="welcome to" src="https://komarev.com/ghpvc/?username=ByMynix&color=red&style=flat" />
 </p>
