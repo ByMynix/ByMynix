@@ -13,3 +13,12 @@
   <img align="right" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ByMynix&hide_border=true&theme=tokyonight&layout=compact&hide=batchfile">
 </a>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+This profile is no longer active. Here are my stats from all the projects I have led, from the beginning until February 2025:
+
+<img alt="All Stats" src="https://s20.directupload.net/images/250203/37vhi5st.png" />
