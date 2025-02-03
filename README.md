@@ -19,6 +19,7 @@
 <br>
 <br>
 <br>
-**This profile is no longer active. Here are my stats from all the projects I have led, from the beginning until February 2025, as the associated site bymynix.de is no longer active:**
+
+# This profile is no longer active. Here are my stats from all the projects I have led, from the beginning until February 2025, as the associated site bymynix.de is no longer active:
 
 <img alt="All Stats" src="https://s20.directupload.net/images/250203/aeqpflj8.png" />
